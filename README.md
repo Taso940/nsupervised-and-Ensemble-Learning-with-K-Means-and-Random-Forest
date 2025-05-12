@@ -1,1 +1,2 @@
 # nsupervised-and-Ensemble-Learning-with-K-Means-and-Random-Forest
+This project applies unsupervised and ensemble machine learning techniques to real datasets using Python. Part I implements K-Means clustering on the Iris dataset for exploratory analysis and pattern discovery, while Part II covers an in-depth explanation and implementation of Random Forest for classification tasks. Includes visualizations, model evaluation, and theoretical insights on ensemble learning, bagging, and the "Wisdom of Crowds" concept.
